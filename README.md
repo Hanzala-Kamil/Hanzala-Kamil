@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hanzala-Kamil
-- 👀 I’m interested in Web Delelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Bscs
 - ⚡ Fun fact Coding
 
