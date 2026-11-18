@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1783953939317.jpg" width="100%" alt="Hanzala Kamil Banner" />
+</p>
+
 # Hey, I'm Hanzala Kamil 👋
 
 ### Full Stack Software Engineer | JavaScript & TypeScript Developer | IoT Engineer
